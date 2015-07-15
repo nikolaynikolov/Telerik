@@ -1,0 +1,8 @@
+C:\Test\hw\oop\Common Type System\PersonDemo\bin\Debug\PersonDemo.exe.config
+C:\Test\hw\oop\Common Type System\PersonDemo\bin\Debug\PersonDemo.exe
+C:\Test\hw\oop\Common Type System\PersonDemo\bin\Debug\PersonDemo.pdb
+C:\Test\hw\oop\Common Type System\PersonDemo\bin\Debug\PersonInfo.dll
+C:\Test\hw\oop\Common Type System\PersonDemo\bin\Debug\PersonInfo.pdb
+C:\Test\hw\oop\Common Type System\PersonDemo\obj\Debug\PersonDemo.csprojResolveAssemblyReference.cache
+C:\Test\hw\oop\Common Type System\PersonDemo\obj\Debug\PersonDemo.exe
+C:\Test\hw\oop\Common Type System\PersonDemo\obj\Debug\PersonDemo.pdb

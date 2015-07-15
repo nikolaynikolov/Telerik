@@ -1,0 +1,6 @@
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+F:\telerik\csharp II\exam2\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb

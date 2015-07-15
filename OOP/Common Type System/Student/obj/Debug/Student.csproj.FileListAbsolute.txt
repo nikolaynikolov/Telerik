@@ -1,0 +1,5 @@
+C:\Test\hw\oop\Common Type System\Student\bin\Debug\Student.dll
+C:\Test\hw\oop\Common Type System\Student\bin\Debug\Student.pdb
+C:\Test\hw\oop\Common Type System\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Test\hw\oop\Common Type System\Student\obj\Debug\Student.dll
+C:\Test\hw\oop\Common Type System\Student\obj\Debug\Student.pdb

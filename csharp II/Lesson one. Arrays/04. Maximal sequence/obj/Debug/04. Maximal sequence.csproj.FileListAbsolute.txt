@@ -1,0 +1,12 @@
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe.config
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.pdb
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\obj\Debug\04. Maximal sequence.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.exe
+F:\telerik\csharp II\Lesson one. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\04. Maximal sequence\obj\Debug\04. Maximal sequence.csprojResolveAssemblyReference.cache

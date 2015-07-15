@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 7. Print First and Last Name\bin\Debug\Problem_7.Print_First_and_Last_Name.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 7. Print First and Last Name\bin\Debug\Problem_7.Print_First_and_Last_Name.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 7. Print First and Last Name\bin\Debug\Problem_7.Print_First_and_Last_Name.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 7. Print First and Last Name\obj\Debug\Problem_7.Print_First_and_Last_Name.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 7. Print First and Last Name\obj\Debug\Problem_7.Print_First_and_Last_Name.pdb

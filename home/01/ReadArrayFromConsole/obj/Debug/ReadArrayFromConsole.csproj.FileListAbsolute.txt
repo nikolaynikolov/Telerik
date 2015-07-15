@@ -1,0 +1,6 @@
+F:\telerik\home\01\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.exe.config
+F:\telerik\home\01\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.exe
+F:\telerik\home\01\ReadArrayFromConsole\bin\Debug\ReadArrayFromConsole.pdb
+F:\telerik\home\01\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.exe
+F:\telerik\home\01\ReadArrayFromConsole\obj\Debug\ReadArrayFromConsole.pdb

@@ -1,0 +1,5 @@
+C:\Users\niki\Desktop\my\Homework 4\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe.config
+C:\Users\niki\Desktop\my\Homework 4\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe
+C:\Users\niki\Desktop\my\Homework 4\4. Number Comparer\bin\Debug\_4.Number_Comparer.pdb
+C:\Users\niki\Desktop\my\Homework 4\4. Number Comparer\obj\Debug\_4.Number_Comparer.exe
+C:\Users\niki\Desktop\my\Homework 4\4. Number Comparer\obj\Debug\_4.Number_Comparer.pdb

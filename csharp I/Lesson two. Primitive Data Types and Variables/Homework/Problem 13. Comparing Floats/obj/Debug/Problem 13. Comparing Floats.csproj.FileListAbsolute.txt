@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

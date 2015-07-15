@@ -1,0 +1,6 @@
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\obj\Debug\Problem 6. Strings and Objects.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

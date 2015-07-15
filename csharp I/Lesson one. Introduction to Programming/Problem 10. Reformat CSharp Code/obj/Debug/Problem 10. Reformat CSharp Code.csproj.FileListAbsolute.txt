@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 10. Reformat CSharp Code\bin\Debug\Problem_10.Reformat_CSharp_Code.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 10. Reformat CSharp Code\bin\Debug\Problem_10.Reformat_CSharp_Code.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 10. Reformat CSharp Code\bin\Debug\Problem_10.Reformat_CSharp_Code.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 10. Reformat CSharp Code\obj\Debug\Problem_10.Reformat_CSharp_Code.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 10. Reformat CSharp Code\obj\Debug\Problem_10.Reformat_CSharp_Code.pdb

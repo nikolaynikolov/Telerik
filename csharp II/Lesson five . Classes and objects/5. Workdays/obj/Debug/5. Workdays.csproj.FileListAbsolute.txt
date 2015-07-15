@@ -1,0 +1,6 @@
+C:\Test\hw\Using Classes and Objects\5. Workdays\bin\Debug\_5.Workdays.exe.config
+C:\Test\hw\Using Classes and Objects\5. Workdays\bin\Debug\_5.Workdays.exe
+C:\Test\hw\Using Classes and Objects\5. Workdays\bin\Debug\_5.Workdays.pdb
+C:\Test\hw\Using Classes and Objects\5. Workdays\obj\Debug\_5.Workdays.exe
+C:\Test\hw\Using Classes and Objects\5. Workdays\obj\Debug\_5.Workdays.pdb
+C:\Test\hw\Using Classes and Objects\5. Workdays\obj\Debug\5. Workdays.csprojResolveAssemblyReference.cache

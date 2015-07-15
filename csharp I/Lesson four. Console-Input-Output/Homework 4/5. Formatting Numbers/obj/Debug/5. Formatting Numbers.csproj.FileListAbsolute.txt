@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe.config
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\obj\Debug\5. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+C:\Users\niki\Desktop\my\Homework 4\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

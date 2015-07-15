@@ -1,0 +1,8 @@
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.exe.config
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.exe
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.exe
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeException.dll
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeException.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\03. InvalidRangeExceptionDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\bin\Debug\ReadingGriffin.exe.config
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\bin\Debug\ReadingGriffin.exe
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\bin\Debug\ReadingGriffin.pdb
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\obj\Debug\ReadingGriffin.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\obj\Debug\ReadingGriffin.exe
+F:\telerik\csharp II\_Griffin1\asddddd\Griffin\ReadingGriffin\obj\Debug\ReadingGriffin.pdb

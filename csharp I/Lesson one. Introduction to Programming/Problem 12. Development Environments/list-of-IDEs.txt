@@ -1,0 +1,35 @@
+﻿Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like
+Visual Studio.
+Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+1. CodeLite
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. CodeLite offers a
+variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+
+2. DialogBlocks
+A cross-platform GUI coding assistant, DialogBlocks is a simple tool to easily edit dialogs and generate code.
+If you need to build wxWidgets GUIs, DialogBlocks makes it fast and simple. Create professional dialogs, wizards and frames
+for deployment on Windows, Linux, and Mac, or any other supported wxWidgets platform.
+
+3. Eclipse
+Many development frameworks are built on Eclipse, a free, open-source editor that was initially a Java environment but a
+variety of plug-ins have extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for instance, includes
+the Eclipse Platform along with the tools required to debug it, plus Java and Plugin Development Tooling and Git and CVS support.
+If your requirements are different, you can choose from a variety of Eclipse Package Solutions, including tools for Java
+developers, Scout Developers, RCP and RAP Developers and more.
+
+4. NetBeans
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions
+to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files,
+with GNU Debugger Integration and code assistance.
+
+5. ShiftEdit
+ShiftEdit is an online IDE that allows you to develop within your browser. With all the files, features and functionality you
+need, you can seamlessly work within any browser without interrupting your workflow or having to install software. With eight
+major languages supported an a SaaS model, ShiftEdit is simple, accessible and functional.
+
+6. Visual Studio
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web,
+desktop, mobile, and even game consoles. With a plethora of testing and compatibility tools, you can test on virtual machines,
+tap into the functionality of BrowserStack to see what your app looks like across more than 300 browsers, run compatibility
+reports to identify patterns and issues between browsers and so much more.

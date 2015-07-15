@@ -1,0 +1,5 @@
+C:\Test\hw\oop\Common Type System\PersonInfo\bin\Debug\PersonInfo.dll
+C:\Test\hw\oop\Common Type System\PersonInfo\bin\Debug\PersonInfo.pdb
+C:\Test\hw\oop\Common Type System\PersonInfo\obj\Debug\PersonInfo.csprojResolveAssemblyReference.cache
+C:\Test\hw\oop\Common Type System\PersonInfo\obj\Debug\PersonInfo.dll
+C:\Test\hw\oop\Common Type System\PersonInfo\obj\Debug\PersonInfo.pdb

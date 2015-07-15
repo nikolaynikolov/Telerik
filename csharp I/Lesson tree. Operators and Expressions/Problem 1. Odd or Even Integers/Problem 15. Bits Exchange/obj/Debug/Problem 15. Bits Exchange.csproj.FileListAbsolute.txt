@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.pdb

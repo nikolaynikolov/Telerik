@@ -1,0 +1,6 @@
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\bin\Debug\_6.Binary_to_hexadecimal.exe.config
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\bin\Debug\_6.Binary_to_hexadecimal.exe
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\bin\Debug\_6.Binary_to_hexadecimal.pdb
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\obj\Debug\6. Binary to hexadecimal.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\obj\Debug\_6.Binary_to_hexadecimal.exe
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\6. Binary to hexadecimal\obj\Debug\_6.Binary_to_hexadecimal.pdb

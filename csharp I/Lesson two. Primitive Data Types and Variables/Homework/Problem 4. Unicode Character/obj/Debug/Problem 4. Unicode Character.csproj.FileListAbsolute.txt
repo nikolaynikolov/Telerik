@@ -1,0 +1,7 @@
+C:\Test\hw\Problem 1. Declare Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\obj\Debug\Problem 4. Unicode Character.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

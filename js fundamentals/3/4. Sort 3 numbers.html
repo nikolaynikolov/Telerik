@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Conditional statements</title>
+</head>
+<body>
+	<h1>4. Sort 3 numbers</h1>
+	<div>
+	<p>Input Values:</p> 
+	A: <input id="inputA" type="text"> B: <input id="inputB" type="text"> C: <input id="inputC" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Result</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+	var a = document.getElementById("inputA").value,
+		b = document.getElementById("inputB").value,
+		c =	document.getElementById("inputC").value;
+
+      if (a > b)
+        {
+            if (a > c)
+            {
+                if (b > c)
+                {
+                    document.getElementById("outputField").value = (a + ' ' + b + ' ' + c)
+                }
+                else
+                {
+                    document.getElementById("outputField").value = (a + ' ' + c + ' ' + b)
+                }
+            }
+            else
+            {
+                    document.getElementById("outputField").value = (c + ' ' + a + ' ' + b)
+            }
+        }
+        else if (b > c)
+        {
+            if (a > c)
+            {
+                    document.getElementById("outputField").value = (b + ' ' + a + ' ' + c)
+            }
+            else
+            {
+                    document.getElementById("outputField").value = (b + ' ' + c + ' ' + a)
+            }
+        }
+        else
+        {
+                    document.getElementById("outputField").value = (c + ' ' + b + ' ' + a)
+        }
+}
+</script>
+</body>
+</html>

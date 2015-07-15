@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 2. Gravitation on the Moon\obj\Debug\Problem_2.Gravitation_on_the_Moon.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 2. Gravitation on the Moon\obj\Debug\Problem_2.Gravitation_on_the_Moon.pdb

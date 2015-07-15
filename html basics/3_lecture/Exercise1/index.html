@@ -1,0 +1,96 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Exercise1</title>
+
+</head>
+
+<body>
+	<colgroup>
+       <col width="120px" />
+       <col width="40px" />
+	   <col width="40px" />
+	   <col width="40px" />
+    </colgroup>
+
+<table border="1">
+ <tr>
+  <td align="right"><strong>Last name</strong></td>
+  <td colspan="3"><input type="text" size="50"></td>
+ </tr>
+
+			
+		<tr>
+			<td align="right"><strong>First Name</strong></td>
+			<td colspan="3"><input type="text" size="50"></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Address</strong></td>
+			<td colspan="3"><textarea cols="37" rows="3" name="address"> </textarea>
+</td>
+		</tr>
+		<tr>
+			<td align="right"><strong>City</strong></td>
+			<td colspan="1"><input type="text" size="25"></td>
+			<td colspan="1">State</td>
+			<td colspan="1"><input type="text" size="15"></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Zip/Postal Code</strong></td>
+			<td colspan="3"><input id="zip" 
+			type="zip" 
+			required="true" 
+			pattern="\+[0-9]{3}\-[0-9]{3}\-[0-9]{2}\-[0-9]{2}\-[0-9]{2}"
+			placeholder=""/></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Country</strong></td>
+			<td colspan="3"><select name="country">
+			<option value="Value 1" selected="selected">Bulgaria</option>
+	    	  <option value="Value 2">Pakistan</option>
+			  <option value="Value 3">Russia</option>
+</select>
+</td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Phone (country code,<br /> area code, number)</strong></td>
+			<td colspan="3">(+<input type="text" size="5">)<input type="text" size="5">-<input type="text" size="10"></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>E-mail</strong></td>
+			<td colspan="3"><input type="email" required="true" pattern="[^ @]*@[^ @].[^ @]" placeholder=""/>
+</td>
+		</tr>
+		<td align="right"><strong>Birth date</strong></td>
+			<td colspan="3"><input type="text" size="50" value="дд. мм. гггг г."></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Gender</strong></td>
+			<td colspan="3"><select name="gender">
+			<option value="Value 1" selected="selected">Male</option>
+	    	  <option value="Value 2">Female</option>
+		</tr>
+		<tr>
+			<td align="right"><strong>Starting date</strong></td>
+			<td colspan="3">
+			<input type="radio" name="2015" value="Spring" />Spring 2015
+			<input type="radio" name="2015" value="Summer" />Summer 2015
+</td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Comments/Questions</strong></td>
+			<td colspan="3"><textarea cols="37" rows="4" name="address"> </textarea></td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><input type="submit" value="Submit" /><input type="reset" name="resetBtn" value="Clear this form" />
+
+</td>
+		</tr>
+</table>
+
+
+</div>
+
+</body>
+
+</html>

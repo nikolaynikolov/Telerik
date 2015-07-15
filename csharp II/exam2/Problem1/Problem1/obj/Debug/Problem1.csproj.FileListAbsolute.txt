@@ -1,0 +1,6 @@
+F:\telerik\csharp II\exam2\Problem1\Problem1\bin\Debug\Problem1.exe.config
+F:\telerik\csharp II\exam2\Problem1\Problem1\bin\Debug\Problem1.exe
+F:\telerik\csharp II\exam2\Problem1\Problem1\bin\Debug\Problem1.pdb
+F:\telerik\csharp II\exam2\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\exam2\Problem1\Problem1\obj\Debug\Problem1.exe
+F:\telerik\csharp II\exam2\Problem1\Problem1\obj\Debug\Problem1.pdb

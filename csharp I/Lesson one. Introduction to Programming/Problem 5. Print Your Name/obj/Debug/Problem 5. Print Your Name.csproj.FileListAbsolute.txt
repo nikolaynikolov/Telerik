@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 5. Print Your Name\obj\Debug\Problem_5.Print_Your_Name.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 5. Print Your Name\obj\Debug\Problem_5.Print_Your_Name.pdb

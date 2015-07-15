@@ -1,0 +1,35 @@
+body ul {
+  list-style-type: none; }
+  body ul li {
+    display: inline-block;
+    margin-right: 10px; }
+    body ul li .thumbnail {
+      height: 50px;
+      width: 50px; }
+body input[type=radio] {
+  display: none; }
+  body input[type=radio]:checked + label span {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-left: 40px; }
+  body input[type=radio]:checked + label #leopard {
+    background-image: url(leopard.jpg);
+    background-size: 100%;	}
+  body input[type=radio]:checked + label #horses {
+    background-image: url(horses.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #lion {
+    background-image: url(lion.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #katerica {
+    background-image: url(katerica.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #tiger {
+    background-image: url(tiger.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #bear {
+    background-image: url(bear.jpg);
+    background-size: 100%;	 }
+

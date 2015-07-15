@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Operators and Expressions</title>
+</head>
+<body>
+	<h1>6. Point in circle</h1>
+	<div>
+	<p>Input point coordinates:</p> 
+	X: <input id="inputX" type="text"> Y: <input id="inputY" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Is inside:</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var x = document.getElementById("inputX").value;
+		var y = document.getElementById("inputY").value;
+        var check = Math.sqrt((x * x) + (y * y));
+        if (check <= 5)
+        {
+            document.getElementById("outputField").value = ("true");
+        }
+        else
+        {
+            document.getElementById("outputField").value = ("false");
+        }
+}
+
+</script>
+</body>
+</html>

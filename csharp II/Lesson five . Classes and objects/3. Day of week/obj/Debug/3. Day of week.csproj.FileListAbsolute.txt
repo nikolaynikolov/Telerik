@@ -1,0 +1,5 @@
+C:\Test\hw\Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.exe.config
+C:\Test\hw\Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.exe
+C:\Test\hw\Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.pdb
+C:\Test\hw\Using Classes and Objects\3. Day of week\obj\Debug\_3.Day_of_week.exe
+C:\Test\hw\Using Classes and Objects\3. Day of week\obj\Debug\_3.Day_of_week.pdb

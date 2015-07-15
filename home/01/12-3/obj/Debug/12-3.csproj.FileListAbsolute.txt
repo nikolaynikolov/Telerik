@@ -1,0 +1,6 @@
+F:\telerik\home\01\12-3\bin\Debug\12-3.exe.config
+F:\telerik\home\01\12-3\bin\Debug\12-3.exe
+F:\telerik\home\01\12-3\bin\Debug\12-3.pdb
+F:\telerik\home\01\12-3\obj\Debug\12-3.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\12-3\obj\Debug\12-3.exe
+F:\telerik\home\01\12-3\obj\Debug\12-3.pdb

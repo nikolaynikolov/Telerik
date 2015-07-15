@@ -1,0 +1,5 @@
+C:\Test\hw\Using Classes and Objects\4. Triangle surface\bin\Debug\_4.Triangle_surface.exe.config
+C:\Test\hw\Using Classes and Objects\4. Triangle surface\bin\Debug\_4.Triangle_surface.exe
+C:\Test\hw\Using Classes and Objects\4. Triangle surface\bin\Debug\_4.Triangle_surface.pdb
+C:\Test\hw\Using Classes and Objects\4. Triangle surface\obj\Debug\_4.Triangle_surface.exe
+C:\Test\hw\Using Classes and Objects\4. Triangle surface\obj\Debug\_4.Triangle_surface.pdb

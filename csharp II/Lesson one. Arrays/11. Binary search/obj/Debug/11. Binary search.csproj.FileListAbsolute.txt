@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\bin\Debug\_11.Binary_search.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\obj\Debug\11. Binary search.csprojResolveAssemblyReference.cache
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\bin\Debug\_11.Binary_search.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\bin\Debug\_11.Binary_search.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\obj\Debug\_11.Binary_search.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\11. Binary search\obj\Debug\_11.Binary_search.pdb

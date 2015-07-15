@@ -1,0 +1,6 @@
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\obj\Debug\Problem 7. Quotes in Strings.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb

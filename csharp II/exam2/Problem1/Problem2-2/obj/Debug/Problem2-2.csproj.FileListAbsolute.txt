@@ -1,0 +1,5 @@
+F:\telerik\csharp II\exam2\Problem1\Problem2-2\bin\Debug\Problem2-2.exe.config
+F:\telerik\csharp II\exam2\Problem1\Problem2-2\bin\Debug\Problem2-2.exe
+F:\telerik\csharp II\exam2\Problem1\Problem2-2\bin\Debug\Problem2-2.pdb
+F:\telerik\csharp II\exam2\Problem1\Problem2-2\obj\Debug\Problem2-2.exe
+F:\telerik\csharp II\exam2\Problem1\Problem2-2\obj\Debug\Problem2-2.pdb

@@ -1,0 +1,3 @@
+F:\telerik\home\01\IterateArrayWithLoops\bin\Debug\IterateArrayWithLoops.exe.config
+F:\telerik\home\01\IterateArrayWithLoops\obj\Debug\IterateArrayWithLoops.exe
+F:\telerik\home\01\IterateArrayWithLoops\obj\Debug\IterateArrayWithLoops.pdb

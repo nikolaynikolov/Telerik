@@ -1,0 +1,11 @@
+C:\Test\hw\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+C:\Test\hw\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+C:\Test\hw\Problem 1. Declare Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 2. Float or Double\obj\Debug\Problem 2. Float or Double.csprojResolveAssemblyReference.cache

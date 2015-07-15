@@ -1,0 +1,8 @@
+C:\Test\hw\oop\Common Type System\StudentDemo\obj\Debug\StudentDemo.csprojResolveAssemblyReference.cache
+C:\Test\hw\oop\Common Type System\StudentDemo\bin\Debug\StudentDemo.exe.config
+C:\Test\hw\oop\Common Type System\StudentDemo\bin\Debug\StudentDemo.exe
+C:\Test\hw\oop\Common Type System\StudentDemo\bin\Debug\StudentDemo.pdb
+C:\Test\hw\oop\Common Type System\StudentDemo\bin\Debug\Student.dll
+C:\Test\hw\oop\Common Type System\StudentDemo\bin\Debug\Student.pdb
+C:\Test\hw\oop\Common Type System\StudentDemo\obj\Debug\StudentDemo.exe
+C:\Test\hw\oop\Common Type System\StudentDemo\obj\Debug\StudentDemo.pdb

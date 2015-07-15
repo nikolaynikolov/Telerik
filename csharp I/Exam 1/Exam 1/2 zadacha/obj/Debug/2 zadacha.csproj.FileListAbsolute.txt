@@ -1,0 +1,6 @@
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\bin\Debug\2 zadacha.exe.config
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\bin\Debug\2 zadacha.exe
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\bin\Debug\2 zadacha.pdb
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\obj\Debug\2 zadacha.exe
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\obj\Debug\2 zadacha.pdb
+F:\telerik\csharp\Exam 1\Exam 1\2 zadacha\obj\Debug\2 zadacha.csprojResolveAssemblyReference.cache

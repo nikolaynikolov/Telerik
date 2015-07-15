@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 6. Print Numbers\bin\Debug\Problem_6.Print_Numbers.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 6. Print Numbers\bin\Debug\Problem_6.Print_Numbers.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 6. Print Numbers\bin\Debug\Problem_6.Print_Numbers.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 6. Print Numbers\obj\Debug\Problem_6.Print_Numbers.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 6. Print Numbers\obj\Debug\Problem_6.Print_Numbers.pdb

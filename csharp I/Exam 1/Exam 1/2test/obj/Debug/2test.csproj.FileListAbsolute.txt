@@ -1,0 +1,5 @@
+F:\telerik\csharp\Exam 1\Exam 1\2test\bin\Debug\2test.exe.config
+F:\telerik\csharp\Exam 1\Exam 1\2test\bin\Debug\2test.exe
+F:\telerik\csharp\Exam 1\Exam 1\2test\bin\Debug\2test.pdb
+F:\telerik\csharp\Exam 1\Exam 1\2test\obj\Debug\2test.exe
+F:\telerik\csharp\Exam 1\Exam 1\2test\obj\Debug\2test.pdb

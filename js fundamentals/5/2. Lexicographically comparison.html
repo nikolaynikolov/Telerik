@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Arrays</title>
+<script>
+var chArr1 = ['a', 'b', 'c', 'd'],
+	chArr2 = ['a', 'b', 'c', 'd'],
+	i = 0,
+	len1 = chArr1.length;
+	len2 = chArr2.length;
+
+if (+len1 == +len2) {
+	for (i = 0; i < len1; i += 1) {
+		if (chArr1[i] == chArr2[i]) {
+			console.log('The arrays are lexicographically equal')
+			}
+		}
+	
+	}
+else {
+console.log('The arrays are NOT lexicographically equal')
+}
+</script>
+</head>
+<body>
+	<h1>2. lexicographically comparaison</h1>
+	<div>
+	<p>The result will appear in the console</p> 
+	</div>
+</body>
+</html>

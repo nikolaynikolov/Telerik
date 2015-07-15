@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Operators and Expressions</title>
+</head>
+<body>
+	<h1>8. Trapezoid area</h1>
+	<div>
+	<p>Input side A, B, and height H:</p> 
+	A: <input id="inputA" type="text"> B: <input id="inputB" type="text"> H: <input id="inputH" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Area is:</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var a = document.getElementById("inputA").value,
+			b = document.getElementById("inputB").value,
+			h = document.getElementById("inputH").value,
+			area = ((+a + +b)*(+h)/2)
+		document.getElementById("outputField").value = (area);
+}
+</script>
+</body>
+</html>

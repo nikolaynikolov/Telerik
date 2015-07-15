@@ -1,0 +1,5 @@
+F:\telerik\home\01\TwoDimentionalArrays\bin\Debug\TwoDimentionalArrays.exe.config
+F:\telerik\home\01\TwoDimentionalArrays\bin\Debug\TwoDimentionalArrays.exe
+F:\telerik\home\01\TwoDimentionalArrays\bin\Debug\TwoDimentionalArrays.pdb
+F:\telerik\home\01\TwoDimentionalArrays\obj\Debug\TwoDimentionalArrays.exe
+F:\telerik\home\01\TwoDimentionalArrays\obj\Debug\TwoDimentionalArrays.pdb

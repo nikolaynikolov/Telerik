@@ -1,0 +1,12 @@
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem 3. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem 3. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache

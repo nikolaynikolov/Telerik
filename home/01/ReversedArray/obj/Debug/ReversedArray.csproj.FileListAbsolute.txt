@@ -1,0 +1,5 @@
+F:\telerik\home\01\ReversedArray\bin\Debug\ReversedArray.exe.config
+F:\telerik\home\01\ReversedArray\bin\Debug\ReversedArray.exe
+F:\telerik\home\01\ReversedArray\bin\Debug\ReversedArray.pdb
+F:\telerik\home\01\ReversedArray\obj\Debug\ReversedArray.exe
+F:\telerik\home\01\ReversedArray\obj\Debug\ReversedArray.pdb

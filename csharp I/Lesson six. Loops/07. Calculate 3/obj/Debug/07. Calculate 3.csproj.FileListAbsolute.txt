@@ -1,0 +1,5 @@
+C:\Test\hw\Homework 6 - Loops\07. Calculate 3\bin\Debug\_07.Calculate_3.exe.config
+C:\Test\hw\Homework 6 - Loops\07. Calculate 3\bin\Debug\_07.Calculate_3.exe
+C:\Test\hw\Homework 6 - Loops\07. Calculate 3\bin\Debug\_07.Calculate_3.pdb
+C:\Test\hw\Homework 6 - Loops\07. Calculate 3\obj\Debug\_07.Calculate_3.exe
+C:\Test\hw\Homework 6 - Loops\07. Calculate 3\obj\Debug\_07.Calculate_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\bin\Debug\_08.Maximal_sum.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\obj\Debug\_08.Maximal_sum.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\08. Maximal sum\obj\Debug\08. Maximal sum.csprojResolveAssemblyReference.cache

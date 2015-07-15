@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Email address extractor</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="solve(A)">solve</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+       var A = [
+                [4],
+                [2],
+                [1, 3, 1, 8]
+        ];
+
+       function solve(params) {
+           var N = parseInt(params[0]),
+                   K = parseInt(params[1]),
+                   numbersAsString = params[2];
+           var res;
+           res = params[2].split(" ");
+
+           for (var i = 0; i <= N; i+=1)
+           {
+               for (var j = 0; j <= K; j+=1)
+               {
+                console.log(res[i])
+               }
+
+           }
+
+           console.log(points);
+
+       }
+       var points = [40, 100, 1, 5, 25, 10];
+       points.sort(function(a, b){return a-b});
+    </script>
+</body>
+</html>

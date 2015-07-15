@@ -1,0 +1,5 @@
+F:\telerik\home\01\PrintArrayToTheConsole\bin\Debug\PrintArrayToTheConsole.exe.config
+F:\telerik\home\01\PrintArrayToTheConsole\bin\Debug\PrintArrayToTheConsole.exe
+F:\telerik\home\01\PrintArrayToTheConsole\bin\Debug\PrintArrayToTheConsole.pdb
+F:\telerik\home\01\PrintArrayToTheConsole\obj\Debug\PrintArrayToTheConsole.exe
+F:\telerik\home\01\PrintArrayToTheConsole\obj\Debug\PrintArrayToTheConsole.pdb

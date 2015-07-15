@@ -1,0 +1,12 @@
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug\_01.ShapesDemo.exe.config
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\obj\Debug\01. ShapesDemo.csprojResolveAssemblyReference.cache
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug1\_01.ShapesDemo.exe.config
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug1\_01.ShapesDemo.exe
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug1\_01.ShapesDemo.pdb
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug1\_01.Shapes.dll
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\bin\Debug1\_01.Shapes.pdb
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\obj\Debug\_01.ShapesDemo.exe
+C:\Test\hw\oop\OOP Principles 2\01. ShapesDemo\obj\Debug\_01.ShapesDemo.pdb
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\01. ShapesDemo\bin\Debug1\_01.ShapesDemo.exe.config
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\01. ShapesDemo\obj\Debug\_01.ShapesDemo.exe
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\01. ShapesDemo\obj\Debug\_01.ShapesDemo.pdb

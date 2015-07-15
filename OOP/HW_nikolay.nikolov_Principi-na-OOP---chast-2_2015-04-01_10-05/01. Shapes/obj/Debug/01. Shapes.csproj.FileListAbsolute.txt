@@ -1,0 +1,4 @@
+C:\Test\hw\oop\OOP Principles 2\01. Shapes\bin\Debug\_01.Shapes.dll
+C:\Test\hw\oop\OOP Principles 2\01. Shapes\bin\Debug\_01.Shapes.pdb
+C:\Test\hw\oop\OOP Principles 2\01. Shapes\obj\Debug\_01.Shapes.dll
+C:\Test\hw\oop\OOP Principles 2\01. Shapes\obj\Debug\_01.Shapes.pdb

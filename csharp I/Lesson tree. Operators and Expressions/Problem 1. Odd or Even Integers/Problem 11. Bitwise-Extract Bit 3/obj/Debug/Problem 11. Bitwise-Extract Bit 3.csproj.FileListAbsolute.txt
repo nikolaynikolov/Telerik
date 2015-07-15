@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 11. Bitwise-Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 11. Bitwise-Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 11. Bitwise-Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 11. Bitwise-Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 11. Bitwise-Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb

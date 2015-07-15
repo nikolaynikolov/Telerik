@@ -1,0 +1,74 @@
+[0424/073508:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/073508:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/073508:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/073508:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/073508:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/073508:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/073508:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/073508:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/073509:ERROR:gpu_child_thread.cc(143)] Exiting GPU process due to errors during initialization
+[0424/073512:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/073512:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/073512:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/073512:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/073512:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0424/073543:ERROR:ipc_channel_win.cc(409)] pipe error: 232
+[0424/073543:ERROR:ipc_channel_win.cc(409)] pipe error: 232
+[0424/073543:ERROR:ipc_channel_win.cc(136)] pipe error: 109
+[0424/105226:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105226:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105226:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105226:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105230:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105230:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105230:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105230:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105230:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105230:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105230:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105230:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105230:ERROR:gpu_child_thread.cc(143)] Exiting GPU process due to errors during initialization
+[0424/105230:ERROR:gpu_process_transport_factory.cc(402)] Failed to establish GPU channel.
+[0424/105230:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0424/105308:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105308:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105308:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105308:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105309:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105309:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105309:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105309:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105309:ERROR:gpu_child_thread.cc(143)] Exiting GPU process due to errors during initialization
+[0424/105309:WARNING:resource_bundle.cc(286)] locale_file_path.empty()
+[0424/105309:ERROR:main_delegate.cc(550)] Could not load locale pak for en-US
+[0424/105309:ERROR:main_delegate.cc(557)] Could not load cef.pak
+[0424/105309:ERROR:main_delegate.cc(574)] Could not load cef_100_percent.pak
+[0424/105309:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5830
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5829
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5831
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5827
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5826
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5828
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5824
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5823
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5825
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5848
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5847
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5849
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5845
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5844
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5846
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5842
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5841
+[0424/105607:WARNING:resource_bundle.cc(373)] Unable to load image with id 5843
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5883
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5882
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5884
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5880
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5879
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5881
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5877
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5876
+[0424/105608:WARNING:resource_bundle.cc(373)] Unable to load image with id 5878
+[0424/112601:ERROR:ipc_channel_win.cc(136)] pipe error: 109

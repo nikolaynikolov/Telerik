@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\bin\Debug\_7.Sum_of_5_Numbers.exe.config
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\bin\Debug\_7.Sum_of_5_Numbers.exe
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\bin\Debug\_7.Sum_of_5_Numbers.pdb
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\obj\Debug\7. Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\obj\Debug\_7.Sum_of_5_Numbers.exe
+C:\Users\niki\Desktop\my\Homework 4\7. Sum of 5 Numbers\obj\Debug\_7.Sum_of_5_Numbers.pdb

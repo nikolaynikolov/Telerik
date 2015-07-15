@@ -1,0 +1,6 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\obj\Debug\Problem 9. Trapezoids.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

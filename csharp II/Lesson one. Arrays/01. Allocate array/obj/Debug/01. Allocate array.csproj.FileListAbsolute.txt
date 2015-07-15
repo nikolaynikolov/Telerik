@@ -1,0 +1,15 @@
+C:\Test\hw\hw-Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+C:\Test\hw\hw-Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe
+C:\Test\hw\hw-Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.pdb
+C:\Test\hw\hw-Arrays\01. Allocate array\obj\Debug\01. Allocate array.csprojResolveAssemblyReference.cache
+C:\Test\hw\hw-Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.exe
+C:\Test\hw\hw-Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.pdb
+F:\telerik\csharp II\Lesson one. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+F:\telerik\csharp II\Lesson one. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.exe
+F:\telerik\csharp II\Lesson one. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\obj\Debug\_01.Allocate_array.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\bin\Debug\_01.Allocate_array.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\01. Allocate array\obj\Debug\01. Allocate array.csprojResolveAssemblyReference.cache

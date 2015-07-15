@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8"> 
+<title>Strings</title>
+</head>
+<body>
+	<h1>1. Reverse string</h1>
+	<div>
+	<p>Input string:</p> 
+	<input id="inputA" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="reverse()" />
+	</div>
+	<div>
+	<p>Reversed string:</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function reverse() {
+	var s = document.getElementById("inputA").value,
+	o = '';
+
+	for (var i = s.length - 1; i >= 0; i--)
+	o += s[i];
+	document.getElementById("outputField").value = (o);
+	}
+    </script>
+</body>
+</html>

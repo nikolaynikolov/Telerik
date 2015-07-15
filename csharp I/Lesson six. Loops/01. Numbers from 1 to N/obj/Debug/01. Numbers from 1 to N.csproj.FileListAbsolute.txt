@@ -1,0 +1,9 @@
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+C:\Test\hw\Homework 6 - Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb
+F:\telerik\csharp\Lesson six. Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+F:\telerik\csharp\Lesson six. Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+F:\telerik\csharp\Lesson six. Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb

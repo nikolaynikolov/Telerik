@@ -1,0 +1,24 @@
+body dl dt:hover {
+text-decoration: underline;
+}
+
+ dl, dd {
+  overflow: hidden;
+  margin: .5em 0;
+  max-height: 1em;
+  -webkit-transition: max-height 500ms ease-out;
+  -moz-transition: max-height 500ms ease-out;
+  -o-transition: max-height 500ms ease-out;
+  transition: max-height 500ms ease-out;
+}
+
+dl:hover {
+  max-height: 10em;
+}
+
+body dl dd {
+  margin-left: 1em;
+  color: rgb(152,136,136);
+}
+
+

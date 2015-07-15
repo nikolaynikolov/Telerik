@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\09. Frequent number\obj\Debug\09. Frequent number.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\bin\Debug\_07.Selection_sort.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\obj\Debug\07. Selection sort.csprojResolveAssemblyReference.cache
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\07. Selection sort\obj\Debug\_07.Selection_sort.pdb

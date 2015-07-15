@@ -1,0 +1,6 @@
+F:\telerik\home\01\09 MaxPlatform2x2\bin\Debug\09 MaxPlatform2x2.exe.config
+F:\telerik\home\01\09 MaxPlatform2x2\bin\Debug\09 MaxPlatform2x2.exe
+F:\telerik\home\01\09 MaxPlatform2x2\bin\Debug\09 MaxPlatform2x2.pdb
+F:\telerik\home\01\09 MaxPlatform2x2\obj\Debug\09 MaxPlatform2x2.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\09 MaxPlatform2x2\obj\Debug\09 MaxPlatform2x2.exe
+F:\telerik\home\01\09 MaxPlatform2x2\obj\Debug\09 MaxPlatform2x2.pdb

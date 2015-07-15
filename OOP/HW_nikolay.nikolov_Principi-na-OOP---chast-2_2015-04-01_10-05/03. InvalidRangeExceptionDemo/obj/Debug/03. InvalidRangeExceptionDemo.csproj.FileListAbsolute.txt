@@ -1,0 +1,11 @@
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.exe.config
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.exe
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.exe
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeException.dll
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeException.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeExceptionDemo\obj\Debug\03. InvalidRangeExceptionDemo.csprojResolveAssemblyReference.cache
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\03. InvalidRangeExceptionDemo\bin\Debug\_03.InvalidRangeExceptionDemo.exe.config
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.exe
+F:\telerik\OOP\HW_nikolay.nikolov_Principi-na-OOP---chast-2_2015-04-01_10-05\03. InvalidRangeExceptionDemo\obj\Debug\_03.InvalidRangeExceptionDemo.pdb

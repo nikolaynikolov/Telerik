@@ -1,0 +1,72 @@
+body {
+ 	font: 14px normal Arial; 
+	background-color: #205D99
+}
+
+.root{
+	display: block;
+	height: 630px;
+	width: 500px;
+}
+/*
+.preview{
+	display: none;
+	position: absolute;
+	border: 1px solid black;
+}
+*/
+.avengers{
+	list-style-type: none;
+}
+
+#root > ul > li:nth-child(n) > label {
+	color: #AECFEE;
+	font-weight: bold;
+}
+
+body input[type=radio] {
+  display: none; }
+  body input[type=radio]:checked + label span {
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin-left: 40px; }
+  body input[type=radio]:checked + label #avenger-1 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;
+    color: #AECFEE	}
+  body input[type=radio]:checked + label #avenger-2 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #avenger-3 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #avenger-4 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #avenger-5 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;	 }
+  body input[type=radio]:checked + label #avenger-6 {
+    background-image: url(images/avenger-1.jpg);
+    background-size: 100%;	 }
+
+div img{
+	width: 200px;
+	height: 150px;
+	border: 15px solid;
+	border-color: #79AEE3;
+	border-radius: 15px;
+}
+
+li p{
+	float: right;
+	color: #B3E5F9;
+}
+
+#root > ul > li:nth-child(n) > div > p{
+	float: right;
+}
+
+#avenger-1{
+	float: left;
+}

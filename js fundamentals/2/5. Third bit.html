@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Operators and Expressions</title>
+</head>
+<body>
+	<h1>5. Third bit</h1>
+	<div>
+	<p>Input N:</p> 
+	<input id="inputField" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>bit #3</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var num = document.getElementById("inputField").value;
+        var p = 3;
+        var bit = (num >> p) & 1;
+        document.getElementById("outputField").value = (bit);
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Loops</title>
+<script>
+function getAnswer() {
+        var n = document.getElementById("inputN").value,
+			i;
+
+		for ( i=0; i <= n; i+=1){
+		console.log(i)
+		}
+}
+
+</script>
+</head>
+<body>
+	<h1>1. Numbers</h1>
+	<div>
+	<p>Input N:</p> 
+	<input id="inputN" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	<p>The result will appear in the console</p> 
+	</div>
+</body>
+</html>

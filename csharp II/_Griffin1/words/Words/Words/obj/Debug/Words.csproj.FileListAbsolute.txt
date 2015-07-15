@@ -1,0 +1,6 @@
+F:\telerik\csharp II\_Griffin1\words\Words\Words\bin\Debug\Words.exe.config
+F:\telerik\csharp II\_Griffin1\words\Words\Words\bin\Debug\Words.exe
+F:\telerik\csharp II\_Griffin1\words\Words\Words\bin\Debug\Words.pdb
+F:\telerik\csharp II\_Griffin1\words\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\_Griffin1\words\Words\Words\obj\Debug\Words.exe
+F:\telerik\csharp II\_Griffin1\words\Words\Words\obj\Debug\Words.pdb

@@ -1,0 +1,6 @@
+F:\telerik\home\01\CheckArraySimetry\bin\Debug\CheckArraySimetry.exe.config
+F:\telerik\home\01\CheckArraySimetry\bin\Debug\CheckArraySimetry.exe
+F:\telerik\home\01\CheckArraySimetry\bin\Debug\CheckArraySimetry.pdb
+F:\telerik\home\01\CheckArraySimetry\obj\Debug\CheckArraySimetry.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\CheckArraySimetry\obj\Debug\CheckArraySimetry.exe
+F:\telerik\home\01\CheckArraySimetry\obj\Debug\CheckArraySimetry.pdb

@@ -1,0 +1,8 @@
+C:\Test\hw\Using Classes and Objects\6. Sum integers\bin\Debug\_6.Sum_integers.exe.config
+C:\Test\hw\Using Classes and Objects\6. Sum integers\bin\Debug\_6.Sum_integers.exe
+C:\Test\hw\Using Classes and Objects\6. Sum integers\bin\Debug\_6.Sum_integers.pdb
+C:\Test\hw\Using Classes and Objects\6. Sum integers\obj\Debug\_6.Sum_integers.exe
+C:\Test\hw\Using Classes and Objects\6. Sum integers\obj\Debug\_6.Sum_integers.pdb
+F:\telerik\csharp II\Lesson five . Classes and objects\6. Sum integers\bin\Debug\_6.Sum_integers.exe.config
+F:\telerik\csharp II\Lesson five . Classes and objects\6. Sum integers\obj\Debug\_6.Sum_integers.exe
+F:\telerik\csharp II\Lesson five . Classes and objects\6. Sum integers\obj\Debug\_6.Sum_integers.pdb

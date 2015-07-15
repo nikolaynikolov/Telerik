@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Operators and Expressions</title>
+</head>
+<body>
+	<h1>7. Is prime</h1>
+
+<script>
+var prime = 3, notPrime = 6;
+document.write(isPrime(prime));
+document.write("<br />");
+document.write(isPrime(notPrime));
+function isPrime(number){
+if(number < 2) return false;
+for(var divisor = 2; divisor <= Math.sqrt(number); divisor++){
+if(!(number % divisor)) return false;
+}
+return true;
+}
+
+</script>
+</body>
+</html>

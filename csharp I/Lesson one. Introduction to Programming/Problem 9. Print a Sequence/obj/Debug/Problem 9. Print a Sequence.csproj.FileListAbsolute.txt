@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 9. Print a Sequence\obj\Debug\Problem_9.Print_a_Sequence.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 9. Print a Sequence\obj\Debug\Problem_9.Print_a_Sequence.pdb

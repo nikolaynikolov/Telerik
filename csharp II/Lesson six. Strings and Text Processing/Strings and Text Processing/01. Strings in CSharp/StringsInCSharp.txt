@@ -1,0 +1,12 @@
+﻿    Describe the strings in C#.
+    What is typical for the string data type?
+    Describe the most important methods of the String class.
+
+Strings are sequences of characters, like array of characters, and each character is a Unicode symbol,
+represented by the string data type in C# (System.String)
+Strings contain an immutable (read-only) sequence of characters.
+Strings use Unicode to support multiple languages and alphabets.
+Strings are stored in the dynamic memory (managed heap).
+System.String is reference type.
+
+The most important methods are Compare, Concat, Substring, Split.

@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.pdb

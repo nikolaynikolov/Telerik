@@ -1,0 +1,6 @@
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\bin\Debug\_06.Calculate_2.exe.config
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\bin\Debug\_06.Calculate_2.exe
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\bin\Debug\_06.Calculate_2.pdb
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\obj\Debug\06. Calculate 2.csprojResolveAssemblyReference.cache
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\obj\Debug\_06.Calculate_2.exe
+C:\Test\hw\Homework 6 - Loops\06. Calculate 2\obj\Debug\_06.Calculate_2.pdb

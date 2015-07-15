@@ -1,0 +1,5 @@
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.pdb
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb

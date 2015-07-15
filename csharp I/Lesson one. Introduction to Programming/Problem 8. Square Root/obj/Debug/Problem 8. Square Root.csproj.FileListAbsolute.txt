@@ -1,0 +1,5 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 8. Square Root\obj\Debug\Problem_8.Square_Root.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 8. Square Root\obj\Debug\Problem_8.Square_Root.pdb

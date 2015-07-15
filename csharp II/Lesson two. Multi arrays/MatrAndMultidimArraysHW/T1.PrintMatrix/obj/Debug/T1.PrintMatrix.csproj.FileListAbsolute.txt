@@ -1,0 +1,1 @@
+F:\telerik\csharp II\Lesson two. Multi arrays\MatrAndMultidimArraysHW\T1.PrintMatrix\bin\Debug\T1.PrintMatrix.exe.config

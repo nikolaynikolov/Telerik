@@ -1,0 +1,5 @@
+C:\Users\niki\Desktop\Homework\Homework\Problem 16. Print Long Sequence\bin\Debug\Problem_16.Print_Long_Sequence.exe.config
+C:\Users\niki\Desktop\Homework\Homework\Problem 16. Print Long Sequence\bin\Debug\Problem_16.Print_Long_Sequence.exe
+C:\Users\niki\Desktop\Homework\Homework\Problem 16. Print Long Sequence\bin\Debug\Problem_16.Print_Long_Sequence.pdb
+C:\Users\niki\Desktop\Homework\Homework\Problem 16. Print Long Sequence\obj\Debug\Problem_16.Print_Long_Sequence.exe
+C:\Users\niki\Desktop\Homework\Homework\Problem 16. Print Long Sequence\obj\Debug\Problem_16.Print_Long_Sequence.pdb

@@ -1,0 +1,5 @@
+F:\telerik\home\01\12-2\bin\Debug\12-2.exe.config
+F:\telerik\home\01\12-2\bin\Debug\12-2.exe
+F:\telerik\home\01\12-2\bin\Debug\12-2.pdb
+F:\telerik\home\01\12-2\obj\Debug\12-2.exe
+F:\telerik\home\01\12-2\obj\Debug\12-2.pdb

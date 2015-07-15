@@ -1,0 +1,2 @@
+C:\Test\hw\oop\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\Test\hw\oop\GenericList\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache

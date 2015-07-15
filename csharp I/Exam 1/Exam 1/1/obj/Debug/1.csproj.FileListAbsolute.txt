@@ -1,0 +1,6 @@
+F:\telerik\csharp\Exam 1\Exam 1\1\bin\Debug\1.exe.config
+F:\telerik\csharp\Exam 1\Exam 1\1\bin\Debug\1.exe
+F:\telerik\csharp\Exam 1\Exam 1\1\bin\Debug\1.pdb
+F:\telerik\csharp\Exam 1\Exam 1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Exam 1\Exam 1\1\obj\Debug\1.exe
+F:\telerik\csharp\Exam 1\Exam 1\1\obj\Debug\1.pdb

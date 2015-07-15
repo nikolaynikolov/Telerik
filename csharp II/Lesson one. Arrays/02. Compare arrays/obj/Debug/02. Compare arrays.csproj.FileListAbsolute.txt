@@ -1,0 +1,15 @@
+C:\Test\hw\hw-Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+C:\Test\hw\hw-Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe
+C:\Test\hw\hw-Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.pdb
+C:\Test\hw\hw-Arrays\02. Compare arrays\obj\Debug\02. Compare arrays.csprojResolveAssemblyReference.cache
+C:\Test\hw\hw-Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+C:\Test\hw\hw-Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb
+F:\telerik\csharp II\Lesson one. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+F:\telerik\csharp II\Lesson one. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+F:\telerik\csharp II\Lesson one. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\obj\Debug\_02.Compare_arrays.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\bin\Debug\_02.Compare_arrays.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\02. Compare arrays\obj\Debug\02. Compare arrays.csprojResolveAssemblyReference.cache

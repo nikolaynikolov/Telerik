@@ -1,0 +1,1 @@
+F:\telerik\csharp II\exam1\Text Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config

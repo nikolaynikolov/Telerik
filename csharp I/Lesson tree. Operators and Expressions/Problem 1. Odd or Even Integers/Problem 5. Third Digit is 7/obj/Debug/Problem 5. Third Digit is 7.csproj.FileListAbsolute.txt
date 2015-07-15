@@ -1,0 +1,6 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 5. Third Digit is 7\obj\Debug\Problem 5. Third Digit is 7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\14. Hexadecimal to decimal\bin\Debug\_14.Hexadecimal_to_decimal.exe.config

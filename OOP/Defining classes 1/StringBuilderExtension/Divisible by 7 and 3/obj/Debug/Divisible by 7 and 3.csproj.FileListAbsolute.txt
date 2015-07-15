@@ -1,0 +1,5 @@
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Divisible by 7 and 3\bin\Debug\Divisible by 7 and 3.exe.config
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Divisible by 7 and 3\bin\Debug\Divisible by 7 and 3.exe
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Divisible by 7 and 3\bin\Debug\Divisible by 7 and 3.pdb
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Divisible by 7 and 3\obj\Debug\Divisible by 7 and 3.exe
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Divisible by 7 and 3\obj\Debug\Divisible by 7 and 3.pdb

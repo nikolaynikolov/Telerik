@@ -1,0 +1,1 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 10. Point in a Circle II\bin\Debug\Problem_10.Point_in_a_Circle_II.exe.config

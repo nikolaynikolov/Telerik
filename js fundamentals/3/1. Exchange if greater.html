@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Conditional statements</title>
+</head>
+<body>
+	<h1>1. Exchange if greater</h1>
+	<div>
+	<p>Input Values:</p> 
+	A: <input id="inputA" type="text"> B: <input id="inputB" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Result</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var a = document.getElementById("inputA").value,
+			b = document.getElementById("inputB").value;
+			temp = 0;
+			if (a > b) {
+			temp = a;
+			a = b;
+			b = temp;
+			}
+			
+			
+        document.getElementById("outputField").value = (a + " " + b);
+}
+
+</script>
+</body>
+</html>

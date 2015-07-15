@@ -1,0 +1,11 @@
+F:\telerik\csharp II\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+F:\telerik\csharp II\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe
+F:\telerik\csharp II\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.pdb
+F:\telerik\csharp II\Lesson one. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+F:\telerik\csharp II\Lesson one. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.pdb
+C:\Users\niki\Desktop\Lesson one. Arrays\06. Maximal K sum\obj\Debug\06. Maximal K sum.csprojResolveAssemblyReference.cache

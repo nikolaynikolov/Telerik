@@ -1,0 +1,6 @@
+F:\telerik\home\01\11 PascalTriangle\bin\Debug\11 PascalTriangle.exe.config
+F:\telerik\home\01\11 PascalTriangle\bin\Debug\11 PascalTriangle.exe
+F:\telerik\home\01\11 PascalTriangle\bin\Debug\11 PascalTriangle.pdb
+F:\telerik\home\01\11 PascalTriangle\obj\Debug\11 PascalTriangle.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\11 PascalTriangle\obj\Debug\11 PascalTriangle.exe
+F:\telerik\home\01\11 PascalTriangle\obj\Debug\11 PascalTriangle.pdb

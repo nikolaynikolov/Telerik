@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Conditional statements</title>
+</head>
+<body>
+	<h1>3. The biggest of three</h1>
+	<div>
+	<p>Input Values:</p> 
+	A: <input id="inputA" type="text"> B: <input id="inputB" type="text"> C: <input id="inputC" type="text"> D: <input id="inputC" type="text"> E: <input id="inputC" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Result</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+	var a = document.getElementById("inputA").value,
+		b = document.getElementById("inputB").value,
+		c =	document.getElementById("inputC").value,
+		d =	document.getElementById("inputC").value,
+		e =	document.getElementById("inputC").value;
+		
+        if ((a >= b) && (a >= c) && (a >= d) && (a >= e)) {
+            document.getElementById("outputField").value = (a)
+        } else if ((b >= c) && (b >= a) && (b >= d) && (b >= e)) {
+            document.getElementById("outputField").value = (b)
+        } else if ((c >= a) && (c >= b) && (c >= d) && (c >= e)) {
+            document.getElementById("outputField").value = (c)
+        } else if ((d >= a) && (d >= b) && (d >= c) && (d >= e)) {
+            document.getElementById("outputField").value = (d)
+        } else if ((e >= a) && (e >= b) && (e >= c) && (e >= d)) {
+            document.getElementById("outputField").value = (e)
+        }
+} 
+</script>
+</body>
+</html>

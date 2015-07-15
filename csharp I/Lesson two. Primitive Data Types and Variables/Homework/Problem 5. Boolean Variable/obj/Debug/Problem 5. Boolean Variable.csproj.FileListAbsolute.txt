@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.pdb

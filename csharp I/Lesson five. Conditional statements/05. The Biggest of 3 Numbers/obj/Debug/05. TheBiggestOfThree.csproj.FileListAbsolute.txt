@@ -1,0 +1,12 @@
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\obj\Debug\05. TheBiggestOfThree.csprojResolveAssemblyReference.cache
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+C:\Test\hw\Homework 5 - Conditional Statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+F:\telerik\csharp\Lesson five. Conditional statements\05. The Biggest of 3 Numbers\obj\Debug\05. TheBiggestOfThree.csprojResolveAssemblyReference.cache

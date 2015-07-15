@@ -1,0 +1,12 @@
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.pdb
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\obj\Debug\Problem 1. Declare Variables.csprojResolveAssemblyReference.cache
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+C:\Test\hw\Problem 1. Declare Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.pdb
+F:\telerik\csharp\Lesson two. Primitive Data Types and Variables\Homework\Problem 1. Declare Variables\obj\Debug\Problem 1. Declare Variables.csprojResolveAssemblyReference.cache

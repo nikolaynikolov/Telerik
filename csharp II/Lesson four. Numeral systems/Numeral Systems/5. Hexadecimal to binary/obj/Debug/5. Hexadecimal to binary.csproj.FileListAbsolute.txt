@@ -1,0 +1,1 @@
+F:\telerik\csharp II\Lesson four. Numeral systems\Numeral Systems\5. Hexadecimal to binary\bin\Debug\_5.Hexadecimal_to_binary.exe.config

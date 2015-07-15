@@ -1,0 +1,6 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\obj\Debug\Problem 8. Prime Number Check.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb

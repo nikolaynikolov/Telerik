@@ -1,0 +1,8 @@
+C:\Test\hw\Homework 5 - Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+C:\Test\hw\Homework 5 - Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+C:\Test\hw\Homework 5 - Conditional Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+C:\Test\hw\Homework 5 - Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+C:\Test\hw\Homework 5 - Conditional Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb
+F:\telerik\csharp\Lesson five. Conditional statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+F:\telerik\csharp\Lesson five. Conditional statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+F:\telerik\csharp\Lesson five. Conditional statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

@@ -1,0 +1,6 @@
+F:\telerik\home\01\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.exe.config
+F:\telerik\home\01\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.exe
+F:\telerik\home\01\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.pdb
+F:\telerik\home\01\ReadMatrixFromConsole\obj\Debug\08 ReadMatrixFromConsole.csprojResolveAssemblyReference.cache
+F:\telerik\home\01\ReadMatrixFromConsole\obj\Debug\ReadMatrixFromConsole.exe
+F:\telerik\home\01\ReadMatrixFromConsole\obj\Debug\ReadMatrixFromConsole.pdb

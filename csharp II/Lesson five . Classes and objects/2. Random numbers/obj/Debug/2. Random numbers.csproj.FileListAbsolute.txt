@@ -1,0 +1,6 @@
+C:\Test\hw\Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.exe.config
+C:\Test\hw\Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.exe
+C:\Test\hw\Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.pdb
+C:\Test\hw\Using Classes and Objects\2. Random numbers\obj\Debug\2. Random numbers.csprojResolveAssemblyReference.cache
+C:\Test\hw\Using Classes and Objects\2. Random numbers\obj\Debug\_2.Random_numbers.exe
+C:\Test\hw\Using Classes and Objects\2. Random numbers\obj\Debug\_2.Random_numbers.pdb

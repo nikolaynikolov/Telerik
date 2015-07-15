@@ -1,0 +1,73 @@
+body {
+    margin: 15px;
+    font-family: Helvetica, Times New Roman;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.3em;
+}
+
+.music-categories {
+    padding: 15px;
+    width: 480px;
+    background: #eee;
+    border: 1px solid #ccc;
+}
+
+.music-categories h1 { margin-bottom: 15px; }
+
+.music-category {
+    overflow: hidden;
+    padding: 15px;
+    border: 1px solid #989898;
+    background: #fff;
+}
+.music-category:not(:last-child) { margin-bottom: 15px; }
+
+.img {
+    width: 222px;
+    height: 115px;
+    float: left;
+    margin-right: 15px;
+    border: 1px solid #9A9592;
+}
+
+.text {
+    position:relative;
+    float:right;
+    width: 200px;
+    height: 115px;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.buttons {
+    position:absolute;
+    bottom: 0;
+    right: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.button-listen {
+    color: #ffffff;
+    background: url("button-listen.png");
+    border: none;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.button-add {
+    color: #ffffff;
+    background: url("button-add.png");
+    border: none;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+

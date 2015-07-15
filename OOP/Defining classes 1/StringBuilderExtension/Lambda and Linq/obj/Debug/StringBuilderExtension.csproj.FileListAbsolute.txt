@@ -1,0 +1,6 @@
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\bin\Debug\Lambda and Linq.exe.config
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\bin\Debug\Lambda and Linq.exe
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\bin\Debug\Lambda and Linq.pdb
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\obj\Debug\StringBuilderExtension.csprojResolveAssemblyReference.cache
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\obj\Debug\Lambda and Linq.exe
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Lambda and Linq\obj\Debug\Lambda and Linq.pdb

@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Operators and Expressions</title>
+</head>
+<body>
+	<h1>4. Third digit</h1>
+	<div>
+	<input id="inputField" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer();" />
+	</div>
+	<div>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var num = document.getElementById("inputField").value;
+        var a = (num / 100) | 0;
+        var b = a % 10;
+        if (b == 7) {
+            document.getElementById("outputField").value = "true";
+        }
+        else {
+            document.getElementById("outputField").value = "false";
+        }
+}
+</script>
+</body>
+</html>

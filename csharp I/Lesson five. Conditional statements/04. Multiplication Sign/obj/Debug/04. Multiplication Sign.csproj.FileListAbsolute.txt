@@ -1,0 +1,6 @@
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.pdb
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\obj\Debug\04. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.exe
+C:\Test\hw\Homework 5 - Conditional Statements\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.pdb

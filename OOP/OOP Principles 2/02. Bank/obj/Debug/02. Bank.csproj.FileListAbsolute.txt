@@ -1,0 +1,5 @@
+C:\Test\hw\oop\OOP Principles 2\02. Bank\bin\Debug\_02.Bank.pdb
+C:\Test\hw\oop\OOP Principles 2\02. Bank\obj\Debug\_02.Bank.pdb
+C:\Test\hw\oop\OOP Principles 2\02. Bank\bin\Debug\_02.Bank.dll.config
+C:\Test\hw\oop\OOP Principles 2\02. Bank\bin\Debug\_02.Bank.dll
+C:\Test\hw\oop\OOP Principles 2\02. Bank\obj\Debug\_02.Bank.dll

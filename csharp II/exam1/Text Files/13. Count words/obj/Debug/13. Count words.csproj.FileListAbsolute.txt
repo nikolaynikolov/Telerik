@@ -1,0 +1,1 @@
+F:\telerik\csharp II\exam1\Text Files\13. Count words\bin\Debug\_13.Count_words.exe.config

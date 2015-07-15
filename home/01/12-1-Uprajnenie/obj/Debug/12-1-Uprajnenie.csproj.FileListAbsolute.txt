@@ -1,0 +1,5 @@
+F:\telerik\home\01\12-1-Uprajnenie\bin\Debug\12-1-Uprajnenie.exe.config
+F:\telerik\home\01\12-1-Uprajnenie\bin\Debug\12-1-Uprajnenie.exe
+F:\telerik\home\01\12-1-Uprajnenie\bin\Debug\12-1-Uprajnenie.pdb
+F:\telerik\home\01\12-1-Uprajnenie\obj\Debug\12-1-Uprajnenie.exe
+F:\telerik\home\01\12-1-Uprajnenie\obj\Debug\12-1-Uprajnenie.pdb

@@ -1,0 +1,1 @@
+F:\telerik\OOP\Defining classes 1\StringBuilderExtension\Student\bin\Debug\Student.exe.config

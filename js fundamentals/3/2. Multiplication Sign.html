@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Conditional statements</title>
+</head>
+<body>
+	<h1>2. Multiplication sign</h1>
+	<div>
+	<p>Input Values:</p> 
+	A: <input id="inputA" type="text"> B: <input id="inputB" type="text"> C: <input id="inputC" type="text">
+	<input id="clickMe" type="button" value="Click me" onclick="getAnswer()" />
+	</div>
+	<div>
+	<p>Result</p>
+	<input id="outputField" type="text">
+	</div>
+<script>
+function getAnswer() {
+        var a = document.getElementById("inputA").value,
+			b = document.getElementById("inputB").value,
+			c =	document.getElementById("inputC").value;
+			
+			if ((a > 0 && b > 0 && c > 0) || ((a > 0 && b < 0 && c < 0) || (a < 0 && b > 0 && c < 0) || (a < 0 && b < 0 && c > 0))){ 
+				document.getElementById("outputField").value = ('+');
+			} else if ((a < 0 || b < 0 || c < 0) || ((a > 0 && b > 0 && c < 0) || (a > 0 && b < 0 && c > 0) || (a < 0 && b > 0 && c > 0)) ){ 
+				document.getElementById("outputField").value = ('-'); 
+			} else {
+			document.getElementById("outputField").value = ('0')
+			}
+
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.exe.config
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.pdb
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.exe
+f:\telerik\csharp\Lesson one. Introduction to Programming\Homework\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.pdb
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.exe.config
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.exe
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.pdb
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.exe
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.pdb
+C:\Users\niki\Desktop\Homework\Homework\Problem 4. Hello World\obj\Debug\Problem 4. Hello World.csprojResolveAssemblyReference.cache
+F:\telerik\csharp\Lesson one. Introduction to Programming\Problem 4. Hello World\bin\Debug\Problem_4.Hello_World.exe.config
+F:\telerik\csharp\Lesson one. Introduction to Programming\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.exe
+F:\telerik\csharp\Lesson one. Introduction to Programming\Problem 4. Hello World\obj\Debug\Problem_4.Hello_World.pdb

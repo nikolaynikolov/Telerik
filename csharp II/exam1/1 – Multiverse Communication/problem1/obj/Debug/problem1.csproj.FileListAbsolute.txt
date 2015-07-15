@@ -1,0 +1,6 @@
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\bin\Debug\problem1.exe.config
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\bin\Debug\problem1.exe
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\bin\Debug\problem1.pdb
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\obj\Debug\problem1.exe
+F:\telerik\csharp II\exam1\1 – Multiverse Communication\problem1\obj\Debug\problem1.pdb

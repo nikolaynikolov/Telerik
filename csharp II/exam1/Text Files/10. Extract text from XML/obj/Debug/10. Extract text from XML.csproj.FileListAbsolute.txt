@@ -1,0 +1,1 @@
+F:\telerik\csharp II\exam1\Text Files\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.exe.config

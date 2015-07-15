@@ -1,0 +1,5 @@
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe.config
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.pdb
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.exe
+F:\telerik\csharp\Lesson tree. Operators and Expressions\Problem 1. Odd or Even Integers\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.pdb

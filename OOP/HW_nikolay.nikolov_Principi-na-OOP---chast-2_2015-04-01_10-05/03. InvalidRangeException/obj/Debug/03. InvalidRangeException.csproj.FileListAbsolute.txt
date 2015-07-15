@@ -1,0 +1,5 @@
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeException\obj\Debug\_03.InvalidRangeException.pdb
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.dll.config
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeException\bin\Debug\_03.InvalidRangeException.dll
+C:\Test\hw\oop\OOP Principles 2\03. InvalidRangeException\obj\Debug\_03.InvalidRangeException.dll

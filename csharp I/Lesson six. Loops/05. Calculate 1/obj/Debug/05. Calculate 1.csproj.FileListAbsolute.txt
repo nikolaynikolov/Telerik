@@ -1,0 +1,5 @@
+C:\Test\hw\Homework 6 - Loops\05. Calculate 1\bin\Debug\_05.Calculate_1.exe.config
+C:\Test\hw\Homework 6 - Loops\05. Calculate 1\bin\Debug\_05.Calculate_1.exe
+C:\Test\hw\Homework 6 - Loops\05. Calculate 1\bin\Debug\_05.Calculate_1.pdb
+C:\Test\hw\Homework 6 - Loops\05. Calculate 1\obj\Debug\_05.Calculate_1.exe
+C:\Test\hw\Homework 6 - Loops\05. Calculate 1\obj\Debug\_05.Calculate_1.pdb
